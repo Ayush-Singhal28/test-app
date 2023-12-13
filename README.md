@@ -35,10 +35,14 @@ g. EC2 instance
 1.2 Docker + Kubernetes
 ● Write a multistage Dockerfile to build and run a sample java application. You can generate a
 sample spring boot web application from https://start.spring.io/
+```bash 
 Code present in java-sample-app and deployment dir
+```
 
 1.3 Python
 ● Write a python script to list all S3 buckets which have public access.
+  ```bash 
   Code present in list_s3_bucket.py
+  ```
 
 
